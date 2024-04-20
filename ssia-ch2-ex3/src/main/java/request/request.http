@@ -1,0 +1,2 @@
+GET http://localhost:8080/hello
+Authorization: Basic aGVsbG86MTIzNDU=
