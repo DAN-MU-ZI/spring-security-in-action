@@ -1,0 +1,4 @@
+GET http://localhost:8080/hello
+Authorization: Basic dXNlcjpiMTY4MDVjZi0yN2Y2LTQ4Y2UtOTMzMi1mYTMzZjAzZDFmMzM=
+
+<> 2024-04-20T205052.200.txt
